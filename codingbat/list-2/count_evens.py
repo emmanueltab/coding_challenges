@@ -9,7 +9,6 @@ def count_evens(list):
         total = 0
         for num in list:
             if num % 2 == 0:
-                total += 1
         return total
 
 l1 = [2, 1, 2, 3, 4] #3
