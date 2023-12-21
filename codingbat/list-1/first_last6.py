@@ -4,12 +4,6 @@
 # first_last6([6, 1, 2, 3]) → True
 # first_last6([13, 6, 1, 2, 3]) → False
 
-import m
-
-if true return 6
-
-
-
 def first_last6(list):
     if(list[0] == 6 or list[-1] == 6):
         return(True)
