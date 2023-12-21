@@ -5,6 +5,7 @@
 # first_last6([13, 6, 1, 2, 3]) → False
 
 def first_last6(list):
+    # qwerty
     if(list[0] == 6 or list[-1] == 6):
         return(True)
     else:
