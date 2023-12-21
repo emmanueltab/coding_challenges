@@ -5,12 +5,15 @@
 # first_last6([13, 6, 1, 2, 3]) → False
 
 
-def first_last(list):
+def first_last6(list):
     if(list[0] == 6 or list[-1] == 6):
-        print("True")
+        return(True)
     else:
-        print("False")
+        return(False)
 
 list1 = [1, 5, 6]
 list2 = [1, 1, 1]
-first_last(list1)
+full_list = [list1, list2]
+
+for l in full_list:
+        print(first_last6(l))
