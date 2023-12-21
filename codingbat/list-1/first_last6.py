@@ -4,5 +4,10 @@
 # first_last6([6, 1, 2, 3]) → True
 # first_last6([13, 6, 1, 2, 3]) → False
 
+import m
+
+if true return 6
+
+
 
 print("it works")
