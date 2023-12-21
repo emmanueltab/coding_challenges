@@ -16,4 +16,4 @@ l1 = [2, 1, 2, 3, 4] #3
 l2 = [2, 2, 0] #3
 l3 = [1, 3, 5] # 0
 
-print(count_evens(l1))
+print(count_evens(l3))
