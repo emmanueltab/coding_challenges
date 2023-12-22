@@ -4,8 +4,7 @@
 # first_last6([6, 1, 2, 3]) → True
 # first_last6([13, 6, 1, 2, 3]) → False
 
-# test from another account...
-# test from eman desktop
+# test from eman laptop
 
 def first_last6(list):
     if(list[0] == 6 or list[-1] == 6):
